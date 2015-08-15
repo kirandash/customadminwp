@@ -1,0 +1,11 @@
+/*
+Theme Name:     Twenty Fourteen Child Theme
+Theme URI:      http://softhawak.com/kiran
+Description:    2014 Child Theme for How to Customize the WordPress Admin Area
+Author:         Kiran Kumar Dash
+Author URI:     http://softhawk.com/kiran
+Template:       twentyfourteen
+Version:        1.0
+*/
+
+@import url("../twentyfourteen/style.css");
